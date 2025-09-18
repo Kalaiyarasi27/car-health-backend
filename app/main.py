@@ -66,4 +66,5 @@ if __name__ == "__main__":
     # Import here so imports are available for the deployment commands too
     import uvicorn
     # Use module path so running "python -m app.main" works
-    uvicorn.run("app.main:app", host="0.0.0.0", port=port, reload=False)
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
+
