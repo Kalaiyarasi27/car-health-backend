@@ -206,7 +206,7 @@ ALLOWED_ORIGINS=[
 
 Built with ❤️ by **Kalaiyarasi Nagarajan**
 
-> *Dreamt, designed, and developed to help candidates align their resumes with the jobs they deserve.*
+Dreamt, designed, and developed to revolutionize vehicle monitoring through real-time data visualization, empowering drivers with actionable insights for optimal car health and performance.
 
 
 
