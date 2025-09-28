@@ -203,11 +203,11 @@ ALLOWED_ORIGINS=[
 [![API Docs](https://img.shields.io/badge/📚_API_Docs-Open_Swagger-green?style=for-the-badge)](https://car-health-backend-4.onrender.com/docs)
 
 </div>
-## ✨ About
 
 Built with ❤️ by **Kalaiyarasi Nagarajan**
 
 > *Dreamt, designed, and developed to help candidates align their resumes with the jobs they deserve.*
+
 
 
 
