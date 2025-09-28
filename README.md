@@ -1,4 +1,4 @@
-# 🚗 Car Health Monitoring Dashboard
+# Car Health Monitoring Dashboard 🚗 
 
 A modern, full-stack web application that simulates a digital cockpit system for real-time vehicle diagnostics and health monitoring. Built with React, FastAPI, and modern web technologies.
 
@@ -14,7 +14,7 @@ A modern, full-stack web application that simulates a digital cockpit system for
 
 ## ✨ Features
 
-### 🎯 Real-time Monitoring
+### Real-time Monitoring
 - **Speed**: 0-120 km/h with visual gauge
 - **Fuel Level**: 0-100% with progress indicators
 - **Engine Temperature**: 70-120°C with warning alerts
@@ -28,19 +28,19 @@ A modern, full-stack web application that simulates a digital cockpit system for
 - 🔋 Low Battery Voltage Alert (<12.0V)
 - 🛞 Low Tire Pressure Alert (<31.0 PSI)
 
-### 📊 Advanced Visualization
+###  Advanced Visualization
 - **Animated Radial Gauges** for speed and temperature
 - **Progress Bars** with gradient colors
 - **Historical Trend Charts** using Recharts
 - **Responsive Design** for all devices
 - **Glassmorphism UI** with modern aesthetics
 
-### 🔄 Live Updates
+###  Live Updates
 - **Auto-refresh** every 5 seconds
 - **Real-time data** from simulated car sensors
 - **WebSocket-ready** architecture
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** with Hooks and modern patterns
@@ -64,7 +64,7 @@ A modern, full-stack web application that simulates a digital cockpit system for
 ```
 car-health-dashboard/
 ├── 📁 backend/
-│   ├── 🐍 app/
+│   ├──  app/
 │   │   └── main.py              # FastAPI application
 │   └── requirements.txt         # Python dependencies
 └── 📁 frontend/
@@ -183,7 +183,7 @@ ALLOWED_ORIGINS=[
 - [ ] Predictive maintenance alerts
 - [ ] Export functionality for reports
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -191,23 +191,7 @@ ALLOWED_ORIGINS=[
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Kalaiyarasi** 
-- GitHub: [@Kalaiyarasi27](https://github.com/Kalaiyarasi27)
-- Project: [Car Health Monitoring Dashboard](https://github.com/Kalaiyarasi27/car-health-backend)
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- FastAPI for the modern Python web framework
-- TailwindCSS for the utility-first CSS framework
-- Recharts for beautiful data visualization
-- Netlify and Render for excellent hosting platforms
 
 ---
 
@@ -219,3 +203,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![API Docs](https://img.shields.io/badge/📚_API_Docs-Open_Swagger-green?style=for-the-badge)](https://car-health-backend-4.onrender.com/docs)
 
 </div>
+## ✨ About
+
+Built with ❤️ by **Kalaiyarasi Nagarajan**
+
+> *Dreamt, designed, and developed to help candidates align their resumes with the jobs they deserve.*
+
+
