@@ -206,7 +206,7 @@ ALLOWED_ORIGINS=[
 
 Built with ❤️ by **Kalaiyarasi Nagarajan**
 
-> Dreamt, Designed, and Developed to revolutionize vehicle monitoring through real-time data visualization, empowering drivers with actionable insights for optimal car health and performance.
+> Dreamt, designed, and developed to revolutionize vehicle monitoring through real-time data visualization, empowering drivers with actionable insights to maintain optimal car health and performance.
 
 
 
